@@ -1,2 +1,1 @@
-# goat-notes
-goat-notes
+# AI Notes App Tutorial
